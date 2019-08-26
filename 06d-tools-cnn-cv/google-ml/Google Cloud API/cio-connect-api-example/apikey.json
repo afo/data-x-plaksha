@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "bii-individual",
+  "private_key_id": "10082f6f96e2c371c5db4243ab7541fd0ef53334",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7K6qsMZBwFLms\nPYTyXktp+PPv0aV7sJ5YgoJRQtSRWDbyH3NZm3kWKCv0xmsGWCSl/mkYvicv5YLp\nwDdfgC6qz2XIMzsShJIHfPpGs7ogbTQm5MnMx9dzx8eg/GsCFXwMfrSwacask7iQ\n+I4e8OL5BsyIb3NeZRJB1t6ofdIi2yJvujRqfrXdMrAmTVphb80dDzuxMQVy9EnO\n090EF0K0My+kFlP1z18zTCJaBqbjQ7sFWQDGF2Vnt7AFiwDhtFKrfbmgZ5EiJUf/\n58xWGytBNHteZvBiTPhal1A7XuKEBe+t9t+6HuFYdpqxDMG92SKcmGR2WFEYortl\nstvLSVY3AgMBAAECggEAIHQgWk4XyM9XKG3cVPgTpHLVvTIBOxKzSg6LERMA75i3\nokDgy9tA4h4iDQWwff+fjyavS2qBOfVWPzikgUslDFn8wHtdlUbmWSUK8mJsdf3p\naosGEJtgGMO9sgTCezCFe1cm9mXI3JiaioyGfAfxmxNaOJf2jZoB0eezYMy8OG2x\nRGoKIXoKceEikWPY1JmvebLaBeqDdWpS9YDHpLsNFCyLe6u3iO3KvOZDNCwbAPxs\nRKPiHAiEraFKcW07o/krg1XlmSe77vUj/1qgUqqWp/kNbBdxBi9tBiQ4fwo8ouyK\nZsBcH9w7lpzVhXjNhGIAiUbUOXgU6rp4Kp/3xfkcCQKBgQD1DbK76+F17cnaU8F+\nJJRdxLCk80L6WRSOwEutHCIgIvA/isMMfyy03ylu2jUHQ+qwv6Jv4e0LTcJ/4mcg\ncam4IRwb+/PAejnIrmKwPyBRHWB0L9bSbhU1svipxqwaKOQWjfwk9VSBUDLfpNHH\ne6bDG0v+GtGsAmIJzJJ6IUSmSQKBgQDDiAzML8526s/bs6aVywKcIk43kLE4SHqD\nlbUd0M4tOsAIqUEBDEtrvaWN5q0LfzxEC23ZsXlU0K9tdzBsZrJLDKcvQLCSYiu0\nNCPrNUVp1cv/xE+6hckNPo26d2KfgjQZmCDIWSo5ChGOoz3IV8/tJTHT5P9xwrLB\nuey0NYQYfwKBgQDd2DLQ0XBg1I6CaoSm7/KpGOFZ0yf1gCOOQCPCac+zDC43OCXv\n8EnGzKizxDNxiliy/inN49g2/YRxRcNaqcud98t8whEfVQdu2ABb0iothMzHIm/2\nPNZSsN1QxZ0UaaRjjtKPmtGP58zGjm2jjBuiUdnwBtN+RwH+IQcSLX/6kQKBgHRr\nlBsbN9ZMNxi8HarApjwqnOGusCYv2Wpxf9ZR1gDOIzrE8+RY2qs6ztDvkQbwagSl\nvXFJn1Fls538woM4nl3bGcwjuz5dX2I7TUulez/pwT33N/V55NyS6zYkET+h+b1n\ne9VuaZpuqUeBYK7hwfaUF9fvWDz2zRJVzl76Ij2nAoGACZCjZMNXfgYtr4PRBCNy\nh/rBDnTJ0f5Ii/jWyaqM7zUcd6W9y2CowTOlrjih/1MTcW6aZUkw8BvgFSNBqTYm\nch5TWCDlrzkEtfNqp5zJvRjH6defFTzItOx97Nfnlj83aAwQDx1TJPXaQlW7HPwI\n6byxU+Di7nYkmC8psfpPVFw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cio-api-tutorial@bii-individual.iam.gserviceaccount.com",
+  "client_id": "100027430761516956025",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cio-api-tutorial%40bii-individual.iam.gserviceaccount.com"
+}
+
+

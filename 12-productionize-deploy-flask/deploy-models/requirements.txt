@@ -1,0 +1,8 @@
+cloudpickle
+pandas
+scipy
+flask
+gunicorn
+coloredlogs
+python-json-logger
+scikit-learn
