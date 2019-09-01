@@ -1,10 +1,6 @@
-<a href="https://data-x.blog/">
-   <img src="./imgsource/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="100" />
-</a>
-
 # Data-X at Plaksha
 
-# [Link to course website & syllabus](https://bit.ly/plaksha)
+## [Link to course website & syllabus](https://bit.ly/plaksha)
 
 #### Teaching team:
 - Instructor: Ravi Kothari
