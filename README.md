@@ -2,22 +2,24 @@
    <img src="./imgsource/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="100" />
 </a>
 
-### IEOR 135 / 290: Applied Data Science with Venture Applications
+### Data-X at Plaksha
 
-[Link to course website & syllabus](https://data-x.blog)
+[Link to course website & syllabus](https://bit.ly/plaksha)
 
-#### Teaching team Fall 2018:
-- Instructor: Ikhlaq Sidhu
+#### Teaching team:
+- Instructor: Ravi Kothari
 - Instructor: Alexander Fred-Ojala
-- GSIs: Sumayah Rahman and Tanya Piplani
+- Instructor: Ikhlaq Sidhu
+- Instructor: James Shanahan
+- GSIs: TBD
 
-*This is the official Github repository for the Data-X class at UC Berkeley*
+*This is the official Github repository for the Data-X class at UC Plaksha*
 
 <a href='https://data-x.blog'>
 <img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
 </a>
 
-## Resources:
+### Resources (same as UC Berkeley class):
 * ##### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Advsiors](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
@@ -53,12 +55,11 @@ git pull
 
 ---
 
-## 📧 Contact us
+## 📧 Contact
 
-- **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - **Alexander Fred-Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
 
-## 📁 About the Bootcamp
+## 📁 About the Course
 
 Today, the world is literally reinventing itself with Data and AI.  However, neither leading companies nor the world’s top students have the complete knowledge set to participate in this newly developing world.  This course provides the tools and understanding to boost any student’s ability to create the emerging data applications of the future.  This bootcamp is suitable for individuals interested in hands-on practical understanding of data science and application opportunities in new ventures, industry project areas, and potential support of research with data technologies.
 
@@ -66,8 +67,6 @@ The Data-X course is a high paced immersion into data and data science principle
 
 
 ## ❤️ Credits
-
-List of Dependencies:
 
 * [Python 3](https://www.python.org/)
 * [Jupyter](https://jupyter.org/)
