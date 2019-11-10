@@ -3,9 +3,9 @@
 ### [Link to course website & syllabus](https://bit.ly/plaksha)
 
 #### Teaching team:
-- Instructor: Ravi Kothari
 - Instructor: Alexander Fred-Ojala
 - Instructor: Ikhlaq Sidhu
+- Instructor: Ravi Kothari
 - Instructor: James Shanahan
 - GSIs: TBD
 
