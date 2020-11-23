@@ -4,10 +4,7 @@
 
 #### Teaching team:
 - Instructor: Alexander Fred-Ojala
-- Instructor: Ikhlaq Sidhu
-- Instructor: Ravi Kothari
-- Instructor: James Shanahan
-- GSIs: TBD
+- TA: Vishal Pandey
 
 *This is the official Github repository for the Data-X class at UC Plaksha*
 
@@ -54,6 +51,8 @@ git pull
 ## 📧 Contact
 
 - **Alexander Fred-Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
+- **Vishal Pandey**: vishal.pandey @ plaksha org
+
 
 ## 📁 About the Course
 
