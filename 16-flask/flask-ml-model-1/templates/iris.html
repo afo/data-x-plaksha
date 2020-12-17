@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <title>Iris Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    {% extends "home.html" %}
+    {% block content %}
+    <div>
+        <style>
+            body {
+                text-align: center;
+            }
+
+            form {
+                display: inline-block;
+            }
+        </style>
+        <form action="/predict" class="form-group" method="post">
+            <div class="row">
+                <p>Enter sepal length (cm):</p>
+                <p><input class="form-control" type="text" name="sl" /></p>
+            </div>
+            <div class="row">
+                <p>Enter sepal width (cm):</p>
+                <p><input class="form-control" type="text" name="sw" /></p>
+            </div>
+            <div class="row">
+                <p>Enter petal length (cm):</p>
+                <p><input class="form-control" type="text" name="pl" /></p>
+            </div>
+            <div class="row">
+                <p>Enter petal width (cm):</p>
+                <p><input class="form-control" type="text" name="pw" /></p>
+            </div>
+            <p><input class="btn btn-primary" type="submit" value="submit" /></p>
+    </div>
+    </form>
+    {% endblock %}
+</body>
+
+</html>
