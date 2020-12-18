@@ -29,7 +29,3 @@ def predict():
         prediction = model.predict(sample)
         pred = ['setosa', 'versicolor', 'virginica'][prediction[0]]
         return render_template("pred.html", value=pred)
-
-
-if __name__ == "__main__":
-    app.run(debug=True)

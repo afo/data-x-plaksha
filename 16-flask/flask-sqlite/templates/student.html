@@ -1,10 +1,12 @@
 <html>
    <body>
       
-      <form action = "{{ url_for('addrec') }}" method = "POST">
+      <form action = "{{ url_for('addrec') }}" method = "POST"> 
+          <!-- url_for('') takes a function name and returns the URL to the endpoint / route for the method -->
+         
          <h3>Student Information</h3>
          Name<br>
-         <input type = "text" name = "nm" /></br>
+          <input type = "text" name = "nm" /><br>
          
          Address<br>
          <textarea name = "add" ></textarea><br>
@@ -17,6 +19,6 @@
          <input type = "submit" value = "submit" /><br>
       </form>
 
-    <a href="/list">List all entries</a>
+    <a href="{{ url_for('list_all') }}">List all entries</a>
    </body>
 </html>
