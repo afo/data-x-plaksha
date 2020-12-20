@@ -30,7 +30,7 @@ First create a table called parents. It has two columns: 'parent' and 'child'. T
 
 (A = abrham, B = barack, etc.)
 
-<center><img src="https://github.com/afo/data-x_public/raw/master/L13_SQL/imgs/family_tree.png" width="200" /></center>
+<center><img src="https://raw.githubusercontent.com/afo/data-x-plaksha/master/09a-sql/reources/family_tree.png" width="200" /></center>
 	  
 ## Q1 Simple SELECTS (on the parents table)
 1. SELECT all records in the table.
