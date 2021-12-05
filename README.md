@@ -51,7 +51,7 @@ git pull
 ## 📧 Contact
 
 - **Alexander Fred-Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
-- **Vishal Pandey**: vishal.pandey @ plaksha org
+- **Vishal Pandey**: joseph.thachil @ plaksha.edu.in
 
 
 ## 📁 About the Course
