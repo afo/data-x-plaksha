@@ -4,7 +4,7 @@
 
 #### Teaching team:
 - Instructor: Alexander Fred-Ojala
-- TA: Vishal Pandey
+- TA: Joseph Thomas Thachil
 
 *This is the official Github repository for the Data-X class at UC Plaksha*
 
