@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+03-tools-webscraping/archive/sols-dont-upload.ipynb
+
 # C extensions
 *.so
 
