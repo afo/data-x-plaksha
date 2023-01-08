@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 03-tools-webscraping/archive/sols-dont-upload.ipynb
+19-nlp-dl/kaggle.json
 
 # C extensions
 *.so
