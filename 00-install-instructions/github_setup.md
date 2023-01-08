@@ -14,7 +14,7 @@ _____
 
 2. `[YOUR PLAKSHA ID]` is your Plaksha email identifier -- e.g. in my case that would be *alexander*. You will need to use this exact setup with dashes and underlines (no space, no capital letters, etc.). Select "Initialize this repository with a README" and choose "Python" in the pull- down menu to add a .gitignore file.
 
-3. Add Alexander (GitHub name: `afo` ) as a collaborator to the repo so I can push and pull to your private GitHub repo. To do this look at the upper right-hand corner of your repository's main page, you should see a button labelled "Settings". Click on "Settings". Choose the "Collaborators" button on the left-hand side of the "Settings" page.
+3. Add Alexander (GitHub name: `afo` ) and our TA Raghav (Github name: `Raghav3095`) as collaborators to the repo so we can push and pull to your private GitHub repo. To do this look at the upper right-hand corner of your repository's main page, you should see a button labelled "Settings". Click on "Settings". Choose the "Collaborators" button on the left-hand side of the "Settings" page.
 
 4. In order to work locally with files in your repository you need to clone the repo to a directory on your computer (e.g., I use ~/src). You can do this in the terminal by running:
 	`git clone https://github.com/[GIT USERNAME]/[YOUR PLAKSHA ID]-data-x-plaksha`
